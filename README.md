@@ -6,9 +6,9 @@ The analysis aims to show how the data differs by city type and based on those d
 
 ## Results
 Let's look at the PyBer Summary DataFrame and the Total Fare by City Type Line Chart:\
-![alt text]()
+![alt text](./analysis/PyBer_Summary_DataFrame.png?raw=True)
 
-![alt text]()
+![alt text](./analysis/PyBer_fare_summary.png?raw=True)
 
 Among the three city types, PyBer is most popular in urban cities.  Urban cities have the most number of rides (1,625).  They also have the most number of drivers (2,405), therefore PyBer is able to meet rider demand much better, resulting to lower ride fares.  This also means lower average fares for drivers.  As you move further away from the larger cities, and into the suburban & rural cities, the the number of rides becomes fewer (625 & 125, respectively) & the number of drivers decrease (490 and 78, respectively).  PyBer does the best in urban cities with the highest total fare at about $39,900 in 2019.  Suburban city PyBer rides made about $19,400 and rural city rides made only about $4,300, despite the higher fare per ride.
 
